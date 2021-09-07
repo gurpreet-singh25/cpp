@@ -31,7 +31,7 @@ int main()
         cout << "\nCost : $" << (small_rooms * 25) + (large_rooms * 35);
         int cost = (small_rooms * 25) + (large_rooms * 35);
 
-        cout << "\nTax : $ " << (cost * 0.06);
+        cout << "\nTax : $ " << (cost * 0.08);
 
         cout << "\n\n*************************************";
 
