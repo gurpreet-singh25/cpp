@@ -35,7 +35,7 @@ int main()
 
         cout << "\n\n*************************************";
 
-        float tax = cost * 0.06;
+        float tax = cost * 0.2;
         cout << endl;
 
         cout << "\nTotal cost : $ " << cost + tax;
